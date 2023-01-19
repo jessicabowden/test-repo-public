@@ -2,7 +2,7 @@
 # a comment
 
 def test_generic():
-    assert 1 == 1
+    assert 3 == 3
 
 # def test_failing():
 #     assert 1 == 2
