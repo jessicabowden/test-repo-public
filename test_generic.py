@@ -9,7 +9,7 @@ def test_generic():
 #     assert 1 == 2
 
 def test_str():
-    assert "a" == "a"
+    assert "ab" == "ab"
 
 # commenting out again
 # def test_new_failing():
